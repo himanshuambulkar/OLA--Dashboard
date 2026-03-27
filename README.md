@@ -49,6 +49,7 @@ The dashboard was built using the following Technology-
 Result- Reduce the cancellation rate by 10% by implementing new startegy.
 
 📂 screenshots/demo
+https://github.com/himanshuambulkar/OLA--Dashboard/blob/main/Rating.png
 
 
 

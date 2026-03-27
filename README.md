@@ -1,13 +1,15 @@
-1) OLA Ride Data Analysis Dashboard using Power BI-
+Title- OLA Ride Data Analysis Dashboard using Power BI-
 
 This project is an interactive Power BI dashboard designed to analyze Ola ride data. It focuses on understanding booking trends, cancellation patterns,       revenue distribution, and customer/driver behavior to generate meaningful business insights.
-3) Tech Stack-
+
+2) Tech Stack-
 
 The dashboard was built using the following Technology-
 • 📂Power BI Desktop – Main data visualization platform used for report creation.
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
-4) Data source-
+
+3) Data source-
    📂 Data Source
    The dataset used in this project is a sample ride dataset containing information about:
    • Bookings
@@ -15,6 +17,7 @@ The dashboard was built using the following Technology-
    • Payment methods
    • Customer & driver ratings
    • Ride distance and dates
+   
 ⭐ Feature Highlights
 📊 Business Problem
  Ola faces challenges in:
@@ -22,12 +25,14 @@ The dashboard was built using the following Technology-
     * Understanding customer and driver behavior
     * Identifying revenue patterns
     * Improving overall service efficiency
+    
 🎯 Goal of the Project
 * Analyze booking and ride performance
 * Identify key reasons for cancellations
 * Understand revenue contribution by payment methods
 * Evaluate customer and driver ratings
 * Provide data-driven insights to improve operations
+  
 📈 Walkthrough of Key Visuals
 1. Overall Dashboard
 * Displays total bookings, successful rides, cancellations, and revenue
@@ -42,15 +47,18 @@ The dashboard was built using the following Technology-
 4. Ratings Analysis
 * Displays driver and customer ratings across vehicle types
 * Helps evaluate service quality
+
 💼 Business Impact & Insights
 * High Cancellation Rate (28%) indicates operational inefficiencies
 * Driver-related issues are a major cause of ride cancellations
 * Cash & UPI dominate payments, showing digital adoption with limited card usage
 * Stable ratings (4.0) reflect consistent service but scope for improvement
 * Ride demand fluctuates daily, indicating peak and low demand periods
+  
 Result- Reduce the cancellation rate by 10% by implementing new startegy.
 
 📂 screenshots/demo
+
 https://github.com/himanshuambulkar/OLA--Dashboard/blob/main/overall.png
 https://github.com/himanshuambulkar/OLA--Dashboard/blob/main/Vehicle%20Type.png
 https://github.com/himanshuambulkar/OLA--Dashboard/blob/main/Revenue.png

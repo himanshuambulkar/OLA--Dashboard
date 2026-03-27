@@ -49,7 +49,13 @@ The dashboard was built using the following Technology-
 Result- Reduce the cancellation rate by 10% by implementing new startegy.
 
 📂 screenshots/demo
+https://github.com/himanshuambulkar/OLA--Dashboard/blob/main/overall.png
+https://github.com/himanshuambulkar/OLA--Dashboard/blob/main/Vehicle%20Type.png
+https://github.com/himanshuambulkar/OLA--Dashboard/blob/main/Revenue.png
+https://github.com/himanshuambulkar/OLA--Dashboard/blob/main/cancellation.png
 https://github.com/himanshuambulkar/OLA--Dashboard/blob/main/Rating.png
+
+
 
 
 

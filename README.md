@@ -1,11 +1,13 @@
-1) OLA Ride Data Analysis Dashboard using Power BI
- This project is an interactive Power BI dashboard designed to analyze Ola ride data. It focuses on understanding booking trends, cancellation patterns,       revenue distribution, and customer/driver behavior to generate meaningful business insights.
-2) Tech Stack
+1) OLA Ride Data Analysis Dashboard using Power BI-
+
+This project is an interactive Power BI dashboard designed to analyze Ola ride data. It focuses on understanding booking trends, cancellation patterns,       revenue distribution, and customer/driver behavior to generate meaningful business insights.
+3) Tech Stack-
+
 The dashboard was built using the following Technology-
 • 📂Power BI Desktop – Main data visualization platform used for report creation.
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
-3) Data source-
+4) Data source-
    📂 Data Source
    The dataset used in this project is a sample ride dataset containing information about:
    • Bookings

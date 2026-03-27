@@ -5,6 +5,7 @@ This project is an interactive Power BI dashboard designed to analyze Ola ride d
 2) Tech Stack-
 
 The dashboard was built using the following Technology-
+
 • 📂Power BI Desktop – Main data visualization platform used for report creation.
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
@@ -60,9 +61,13 @@ Result- Reduce the cancellation rate by 10% by implementing new startegy.
 📂 screenshots/demo
 
 https://github.com/himanshuambulkar/OLA--Dashboard/blob/main/overall.png
+
 https://github.com/himanshuambulkar/OLA--Dashboard/blob/main/Vehicle%20Type.png
+
 https://github.com/himanshuambulkar/OLA--Dashboard/blob/main/Revenue.png
+
 https://github.com/himanshuambulkar/OLA--Dashboard/blob/main/cancellation.png
+
 https://github.com/himanshuambulkar/OLA--Dashboard/blob/main/Rating.png
 
 
